@@ -1,0 +1,1 @@
+"..\venv\Scripts\pyside2-uic" "..\gui\window.ui" > "..\src\gui_window.py"
